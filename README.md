@@ -10,7 +10,7 @@
 - Works with MacOS Sonoma (14.x)
 
 # Status
-It just works :)
+- It just works :)
 
 # Known Quirks
 - AppleALC.kext enabled but audio output/input didn't work
