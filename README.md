@@ -14,3 +14,4 @@
 
 # Known Quirks
 - AppleALC.kext enabled but audio output/input didn't work
+- When shutting down the pc, it restarts for no reason
