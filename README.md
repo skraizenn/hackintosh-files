@@ -1,7 +1,7 @@
 # System specs
 - AMD Ryzen 3 1200
 - Colorful Battle-ax B450M-HD v14
-- Asrock Phantom Gaming RX570 4g
+- Asrock Phantom Gaming D RX570 4g
 - 16GB DDR4 RAM at 2666 MHz
 - Realtek ALC662 audio
 - Realtek RTL8111 ethernet
