@@ -1,3 +1,6 @@
+# Guide
+[just read this shit](https://github.com/yusufklncc/Hackintosh-for-All-Computers)
+
 # System specs
 - AMD Ryzen 3 1200
 - Colorful Battle-ax B450M-HD v14
