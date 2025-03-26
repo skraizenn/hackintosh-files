@@ -1,5 +1,5 @@
 [photo]: screenshot.png "screenshot"
-
+![screenshot][photo]
 
 # Guide
 [just read this shit](https://github.com/yusufklncc/Hackintosh-for-All-Computers)
